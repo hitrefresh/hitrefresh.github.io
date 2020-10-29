@@ -1,0 +1,15 @@
+# Site settings
+title: Personal Blog
+baseurl: ""
+url: "https://hitrefresh.github.io"
+github_username: hitrefresh
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+highlighter: rouge
+kramdown:
+  input: GFM
+  auto_ids: true
+  syntax_highlighter: rouge
